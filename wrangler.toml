@@ -1,4 +1,4 @@
-name = "serverless-dns"
+name = "quiet-sun-4756"
 main = "./dist/worker.js"
 workers_dev = true
 # logpush job is setup to capture from envs ending: log, pro, or one
